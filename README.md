@@ -5,4 +5,4 @@ Latent_Diffusion_with_Denoising_Block.ipynb is the demo for using denoising bloc
 
 Tuning_Motion_illusion_Diffusion.ipynb is the demo for using motion illusion to mitigate artifacts
 
-Motion Illusion(folder) is a MATLAB based impplementation of motion illusion
+Motion Illusion(folder) is a MATLAB based implementation of motion illusion
